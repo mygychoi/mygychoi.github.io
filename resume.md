@@ -7,7 +7,7 @@
 
 I am a Backend engineer with a passion for leveraging Python to develop robust web applications.
 Experienced in designing and implementing solutions using Python-based frameworks.
-Excited about exploring GraphQL for high-performance APIs.
+Learning about exploring GraphQL for high-performance APIs.
 
 ## Skills
 
