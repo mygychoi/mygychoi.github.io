@@ -1,7 +1,7 @@
 # Myeonggyu Choi
 
 - Mail: <mygy.choi@gmail.com>
-- GitHub: github.com/mygychoi
+- GitHub: [github.com/mygychoi](https://github.com/mygychoi)
 - Phone: Available upon request
 - Location: Seoul, South Korea
 
