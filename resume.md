@@ -22,7 +22,7 @@ Excited about exploring GraphQL for high-performance APIs.
 
 - Assistant Manager, Feb 2024 - Present.
 - Associate, Aug 2022 - Jan 2024.
-- Developed Python-based GraphQL backend server for <www.tridge.com> by Django.
+- Developed Python-based GraphQL backend server for [www.tridge.com](https://www.tridge.com) by Django.
 - Seasoned in DB/Graphql schema design.
 - Introduced layered service architecture to effectively manage
   intricate business solutions.
