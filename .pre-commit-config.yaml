@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: markdownlint
+        name: markdownlint
+        description: "Fixes the style of Markdown/Commonmark files."
+        entry: markdownlint --fix --disable MD013
+        language: system
+        types: [markdown]
