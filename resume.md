@@ -9,16 +9,12 @@ I am a Backend engineer with a passion for leveraging Python to develop robust w
 Experienced in designing and implementing solutions using Python-based frameworks.
 Excited about exploring GraphQL for high-performance APIs.
 
----
-
 ## Skills
 
 - GraphQL backend.
 - Python, fluent in ASGI frameworks such as Django, FastAPI, Starlette and Uvicorn.
 - PostgreSQL, experienced in Elasticsearch and Redis.
 - Recently engaged in Rust.
-
----
 
 ## Work Experience
 
@@ -35,15 +31,11 @@ Excited about exploring GraphQL for high-performance APIs.
 
 - Honorably discharged as a sergeant
 
----
-
 ## Education
 
 ### Bachelor of Software Convergence, Kyung Hee University, Mar 2017 - Feb 2023.
 
 - Graduated with overall GPA of 3.51/4.5(90%)
-
----
 
 ## Achievements
 
@@ -58,8 +50,6 @@ Excited about exploring GraphQL for high-performance APIs.
   [Chosun Ilbo](https://www.chosun.com/national/national_general/2021/12/27/JEMPO4A4DZFQRFWFCHK52O3FGA/)
   and more.
 - Source code available on [repository](https://github.com/mygychoi/UnvaccinatedRestaurantGuide-Gazaahome)
-
----
 
 ## Interests
 
