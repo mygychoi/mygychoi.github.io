@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+pandoc -o resume.pdf resume.md --variable geometry:margin=1in

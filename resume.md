@@ -19,7 +19,7 @@ A backend engineer passionate about leveraging Python and ASGI frameworks to dev
 
 - Assistant Manager, Feb 2024 - Present.
 - Associate, Aug 2022 - Jan 2024.
-- Developed Python-based GraphQL backend server for [www.tridge.com](https://www.tridge.com) using Django.
+- Developed Python-based GraphQL backend server for _[www.tridge.com](https://www.tridge.com)_ using Django.
 - Experienced in Graphql and DB schema design.
 - Implemented layered business service architecture to effectively manage intricate business requirements.
 
@@ -40,15 +40,16 @@ A backend engineer passionate about leveraging Python and ASGI frameworks to dev
 - Sole developer of a project, achieving 110K unique visitors and 3K peek concurrent users in a month.
 - Implemented using pure Django MVT architecture with PostgreSQL, and deployed via Heroku.
 - Featured in numerousf Korean press outlets:
-  [JoongAng Ilbo](https://www.joongang.co.kr/article/25037441#home),
-  [Dong-a Ilbo](https://www.donga.com/news/Society/article/all/20211227/110963750/2), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1006584103),
-  [Chosun Ilbo](https://www.chosun.com/national/national_general/2021/12/27/JEMPO4A4DZFQRFWFCHK52O3FGA/)
+  _[JoongAng Ilbo](https://www.joongang.co.kr/article/25037441#home)_,
+  _[Dong-a Ilbo](https://www.donga.com/news/Society/article/all/20211227/110963750/2)_,
+  _[SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1006584103)_,
+  _[Chosun Ilbo](https://www.chosun.com/national/national_general/2021/12/27/JEMPO4A4DZFQRFWFCHK52O3FGA)_
   and more.
-- Source code available on [repository](https://github.com/mygychoi/UnvaccinatedRestaurantGuide-Gazaahome)
+- Source code available on _[repository](https://github.com/mygychoi/UnvaccinatedRestaurantGuide-Gazaahome)_
 
 ## Interests
 
 - Exploring GraphQL backend advancements, especially in query execution techniques such as dataloder, look-ahead pattern, and BSF-based execution model.
 - Delving into asynchronous Python and its frameworks like FastAPI, Starlette, and Uvicorn.
-- Developed a Slack app, [godabot](https://github.com/mygychoi/godabot), using FastAPI for company workspace.
+- Developed a Slack app, _[godabot](https://github.com/mygychoi/godabot)_, using FastAPI for company workspace.
 - Recently engaged in learning Rust.
