@@ -1,20 +1,17 @@
 # Myeonggyu Choi
 
-- Mail: <mygy.choi@gmail.com>
+- Email: <mygy.choi@gmail.com>
 - GitHub: [github.com/mygychoi](https://github.com/mygychoi)
 - Phone: Available upon request
 - Location: Seoul, South Korea
 
-I am a Backend engineer with a passion for leveraging Python to develop robust web applications.
-Experienced in designing and implementing solutions using Python-based frameworks.
-Learning about exploring GraphQL for high-performance APIs.
+A backend engineer passionate about leveraging Python and ASGI frameworks to develop web applications, with expertise in GraphQL backend.
 
 ## Skills
 
 - GraphQL backend.
-- Python, fluent in ASGI frameworks such as Django, FastAPI, Starlette and Uvicorn.
-- PostgreSQL, experienced in Elasticsearch and Redis.
-- Recently engaged in Rust.
+- Python, ASGI frameworks such as Django, FastAPI, Starlette and Uvicorn.
+- PostgreSQL, Elasticsearch, and Redis.
 
 ## Work Experience
 
@@ -22,10 +19,9 @@ Learning about exploring GraphQL for high-performance APIs.
 
 - Assistant Manager, Feb 2024 - Present.
 - Associate, Aug 2022 - Jan 2024.
-- Developed Python-based GraphQL backend server for [www.tridge.com](https://www.tridge.com) by Django.
-- Seasoned in DB/Graphql schema design.
-- Introduced layered service architecture to effectively manage
-  intricate business solutions.
+- Developed Python-based GraphQL backend server for [www.tridge.com](https://www.tridge.com) using Django.
+- Experienced in Graphql and DB schema design.
+- Implemented layered business service architecture to effectively manage intricate business requirements.
 
 ### Sergeant, The Republic of Korea Army, Jan 2019 - Aug 2020.
 
@@ -41,10 +37,9 @@ Learning about exploring GraphQL for high-performance APIs.
 
 ### Unvaccinated Restaurant Guide, Dec 2021 - Jan 2022.
 
-- Sole developer of a project with 110K unique visitors and 3K PCU
-- Led end-to-end project development, including Backend/Frontend, DevOps, marketing, design, business operations.
-- Implemented by pure Django MVT architecture and deployed on Heroku.
-- Featured in tens of Korean press outlets:
+- Sole developer of a project, achieving 110K unique visitors and 3K peek concurrent users in a month.
+- Implemented using pure Django MVT architecture with PostgreSQL, and deployed via Heroku.
+- Featured in numerousf Korean press outlets:
   [JoongAng Ilbo](https://www.joongang.co.kr/article/25037441#home),
   [Dong-a Ilbo](https://www.donga.com/news/Society/article/all/20211227/110963750/2), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1006584103),
   [Chosun Ilbo](https://www.chosun.com/national/national_general/2021/12/27/JEMPO4A4DZFQRFWFCHK52O3FGA/)
@@ -53,6 +48,7 @@ Learning about exploring GraphQL for high-performance APIs.
 
 ## Interests
 
-- Exploring GraphQL backend advancements, especially in query execution technics such as dataloder, look-ahead, and BFS-based execution.
-- Delving into asynchronous Python and frameworks like FastAPI, Starlette, and Uvicorn.
-- Developed a Slack app, [godabot](https://github.com/mygychoi/godabot), using FastAPI for company dedicated workspace.
+- Exploring GraphQL backend advancements, especially in query execution techniques such as dataloder, look-ahead pattern, and BSF-based execution model.
+- Delving into asynchronous Python and its frameworks like FastAPI, Starlette, and Uvicorn.
+- Developed a Slack app, [godabot](https://github.com/mygychoi/godabot), using FastAPI for company workspace.
+- Recently engaged in learning Rust.
