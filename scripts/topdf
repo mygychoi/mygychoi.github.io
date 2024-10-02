@@ -1,9 +1,0 @@
-#!/bin/zsh
-
-pandoc -o resume.pdf resume.md \
---variable documentclass:article \
---variable geometry:margin=3cm \
---variable pagestyle:headings \
---variable pagesize:a4paper \
---variable urlcolor:gray \
---variable urlstyle:rm

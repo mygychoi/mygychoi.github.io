@@ -1,0 +1,20 @@
+#!/bin/zsh
+
+DIR="resumes"
+COMMON_OPTIONS=(
+    --variable documentclass:article
+    --variable geometry:margin=3cm
+    --variable pagesize:a4paper
+    --variable urlcolor:gray
+    --variable pagestyle:plain
+    --variable urlstyle:rm
+)
+
+# english
+pandoc -o $DIR/resume.pdf $DIR/resume.md "${COMMON_OPTIONS[@]}"
+
+# korean
+pandoc -o $DIR/resume-kr.pdf $DIR/resume-kr.md "${COMMON_OPTIONS[@]}" --pdf-engine=xelatex --variable mainfont='Nanum Myeongjo'
+
+# integrated
+pdftk $DIR/resume.pdf $DIR/resume-kr.pdf cat output $DIR/resume-all.pdf
