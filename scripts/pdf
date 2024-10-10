@@ -4,10 +4,14 @@ DIR="resumes"
 COMMON_OPTIONS=(
     --variable documentclass:article
     --variable geometry:margin=3cm
-    --variable pagesize:a4paper
-    --variable urlcolor:gray
+    --variable geometry:top=1cm
+    --variable pagesize:a4
+    --variable fontsize:10pt
+    --variable linestretch:1.25
     --variable pagestyle:plain
+    --variable urlcolor:Blue3
     --variable urlstyle:rm
+    # --variable indent
 )
 
 # english
